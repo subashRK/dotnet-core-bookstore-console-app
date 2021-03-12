@@ -1,0 +1,13 @@
+D:\My projects\BookStore\bin\Debug\netcoreapp3.1\BookStore.exe
+D:\My projects\BookStore\bin\Debug\netcoreapp3.1\BookStore.deps.json
+D:\My projects\BookStore\bin\Debug\netcoreapp3.1\BookStore.runtimeconfig.json
+D:\My projects\BookStore\bin\Debug\netcoreapp3.1\BookStore.runtimeconfig.dev.json
+D:\My projects\BookStore\bin\Debug\netcoreapp3.1\BookStore.dll
+D:\My projects\BookStore\bin\Debug\netcoreapp3.1\BookStore.pdb
+D:\My projects\BookStore\obj\Debug\netcoreapp3.1\BookStore.csprojAssemblyReference.cache
+D:\My projects\BookStore\obj\Debug\netcoreapp3.1\BookStore.AssemblyInfoInputs.cache
+D:\My projects\BookStore\obj\Debug\netcoreapp3.1\BookStore.AssemblyInfo.cs
+D:\My projects\BookStore\obj\Debug\netcoreapp3.1\BookStore.csproj.CoreCompileInputs.cache
+D:\My projects\BookStore\obj\Debug\netcoreapp3.1\BookStore.dll
+D:\My projects\BookStore\obj\Debug\netcoreapp3.1\BookStore.pdb
+D:\My projects\BookStore\obj\Debug\netcoreapp3.1\BookStore.genruntimeconfig.cache
